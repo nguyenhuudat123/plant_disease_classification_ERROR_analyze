@@ -1,0 +1,42 @@
+True_Class,Predicted_Class,Num_Models,Total_Count,Avg_Count,Std_Count,Model_Percentage
+True_Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,12,12709,1059.0833333333333,2.968266507678522,100.0
+True_Orange___Haunglongbing_(Citrus_greening),Orange___Haunglongbing_(Citrus_greening),12,12685,1057.0833333333333,1.7298624923456258,100.0
+True_Soybean___healthy,Soybean___healthy,12,12404,1033.6666666666667,4.905161165609778,100.0
+True_Tomato___Bacterial_spot,Tomato___Bacterial_spot,12,5090,424.1666666666667,5.605732996160485,100.0
+True_Peach___Bacterial_spot,Peach___Bacterial_spot,12,5040,420.0,4.990900811385744,100.0
+True_Tomato___Late_blight,Tomato___Late_blight,12,4718,393.1666666666667,15.508550916031819,100.0
+True_Squash___Powdery_mildew,Squash___Powdery_mildew,12,4547,378.9166666666667,2.0652243256245746,100.0
+True_Tomato___Septoria_leaf_spot,Tomato___Septoria_leaf_spot,12,4297,358.0833333333333,11.704376285920759,100.0
+True_Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Spider_mites Two-spotted_spider_mite,12,3939,328.25,11.242168991629848,100.0
+True_Apple___healthy,Apple___healthy,12,3920,326.6666666666667,5.82054876096643,100.0
+True_Tomato___healthy,Tomato___healthy,12,3782,315.1666666666667,1.1146408580454261,100.0
+True_Blueberry___healthy,Blueberry___healthy,12,3676,306.3333333333333,3.2844906435973935,100.0
+True_Grape___Esca_(Black_Measles),Grape___Esca_(Black_Measles),12,3675,306.25,2.8324419275118875,100.0
+"True_Pepper,_bell___healthy","Pepper,_bell___healthy",12,3468,289.0,2.860387767736773,100.0
+True_Tomato___Target_Spot,Tomato___Target_Spot,12,3349,279.0833333333333,7.844608262232017,100.0
+True_Grape___Black_rot,Grape___Black_rot,12,2870,239.16666666666666,2.724746304565335,100.0
+True_Corn_(maize)___healthy,Corn_(maize)___healthy,12,2843,236.91666666666666,0.2886751345948138,100.0
+True_Corn_(maize)___Common_rust_,Corn_(maize)___Common_rust_,12,2801,233.41666666666666,0.7929614610987588,100.0
+True_Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Leaf_blight_(Isariopsis_Leaf_Spot),12,2760,230.0,1.2060453783110534,100.0
+True_Potato___Early_blight,Potato___Early_blight,12,2582,215.16666666666666,1.992409839791243,100.0
+True_Potato___Late_blight,Potato___Late_blight,12,2506,208.83333333333334,6.886526150697637,100.0
+True_Strawberry___Leaf_scorch,Strawberry___Leaf_scorch,12,2503,208.58333333333334,2.065224325624579,100.0
+True_Cherry_(including_sour)___Powdery_mildew,Cherry_(including_sour)___Powdery_mildew,12,2459,204.91666666666666,2.0652243256245817,100.0
+True_Tomato___Leaf_Mold,Tomato___Leaf_Mold,12,2124,177.0,5.359782899266793,100.0
+True_Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Northern_Leaf_Blight,12,2090,174.16666666666666,3.950450683917039,100.0
+"True_Pepper,_bell___Bacterial_spot","Pepper,_bell___Bacterial_spot",12,2089,174.08333333333334,3.987670391533771,100.0
+True_Cherry_(including_sour)___healthy,Cherry_(including_sour)___healthy,12,2087,173.91666666666666,0.7929614610987564,100.0
+True_Tomato___Early_blight,Tomato___Early_blight,12,2057,171.41666666666666,8.404093519160048,100.0
+True_Apple___Black_rot,Apple___Black_rot,12,1518,126.5,0.9999999999999998,100.0
+True_Apple___Apple_scab,Apple___Apple_scab,12,1516,126.33333333333333,7.702813338860895,100.0
+True_Strawberry___healthy,Strawberry___healthy,12,1183,98.58333333333333,0.7929614610987589,100.0
+True_Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,12,1175,97.91666666666667,5.0714590572829215,100.0
+True_Grape___healthy,Grape___healthy,12,989,82.41666666666667,0.7929614610987609,100.0
+True_Peach___healthy,Peach___healthy,12,861,71.75,0.8660254037844379,100.0
+True_Raspberry___healthy,Raspberry___healthy,12,859,71.58333333333333,0.6685579234215221,100.0
+True_Tomato___Tomato_mosaic_virus,Tomato___Tomato_mosaic_virus,12,838,69.83333333333333,0.5773502691896281,100.0
+True_Apple___Cedar_apple_rust,Apple___Cedar_apple_rust,12,546,45.5,1.5666989036012795,100.0
+True_Potato___healthy,Potato___healthy,12,364,30.333333333333332,1.2309149097933265,100.0
+True_Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,12,134,11.166666666666666,4.174235549683609,100.0
+True_Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,12,93,7.75,3.0488447886789096,100.0
+True_Tomato___Late_blight,Tomato___healthy,12,12,1.0,0.0,100.0

@@ -1,0 +1,13 @@
+Model,Deployment_Score,Category
+AlexNet,87.33573310921422,Well-Calibrated & Safe
+LeNet,75.4196720176557,Well-Calibrated & Safe
+SimpleCNN,72.8476839693875,Well-Calibrated & Safe
+InceptionV3,70.82786802406547,Well-Calibrated & Safe
+ShuffleNetV2,62.76425596025918,Well-Calibrated & Safe
+MobileNetV2,62.72135741252005,Well-Calibrated & Safe
+ResNet18,58.24054745764662,Poorly-Calibrated & Dangerous
+ResNet50,56.98719723954976,Poorly-Calibrated & Dangerous
+EfficientNetB0,55.243227199997214,Poorly-Calibrated & Dangerous
+ResNet34,54.40821483282774,Poorly-Calibrated & Dangerous
+DenseNet121,50.303906162083486,Poorly-Calibrated & Dangerous
+MobileNetV3Small,50.139231589492496,Poorly-Calibrated & Dangerous
